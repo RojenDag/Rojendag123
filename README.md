@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rojendag123
+- 👋 Hi, I’m @RojenDag
 - 👀 I’m interested in Mathematics and Statistics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on coding projects with my class mates 
